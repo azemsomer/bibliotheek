@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ledenlijst>
+<!-- sjabloon voor dit document
+   gelieve deze te kopiëren
+	<lid lidNummer="">
+		<naam>
+			<voornaam></voornaam>
+			<achternaam></achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar></jaar>
+			<maand></maand>
+			<dag></dag>
+		</geboorteDatum>
+		<adres>
+			<straat></straat>
+			<huisnummer></huisnummer>
+			<plaats></plaats>		
+		</adres>
+		<email></email>
+		<telefoon></telefoon>
+	</lid>
+	-->
+	<lid lidNummer="82001">
+		<naam>
+			<voornaam>Mathilde</voornaam>
+			<achternaam>Plantaan</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1995</jaar>
+			<maand>januari</maand>
+			<dag>23</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Rozenstraat</straat>
+			<huisnummer>123</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>mathilde@example.org</email>
+		<telefoon>99-123 45 678</telefoon>
+	</lid>
+	<lid lidNummer="82002">
+		<naam>
+			<voornaam>Amalia</voornaam>
+			<achternaam>Frost</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1992</jaar>
+			<maand>mei</maand>
+			<dag>17</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Bramenhof</straat>
+			<huisnummer>89</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>amalia@example.org</email>
+		<telefoon>99-234 56 789</telefoon>
+	</lid>
+	<lid lidNummer="82003">
+		<naam>
+			<voornaam>Robin</voornaam>
+			<achternaam>Bruijn</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1997</jaar>
+			<maand>3</maand>
+			<dag>september</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Tulpenplein</straat>
+			<huisnummer>67</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>robin@example.org</email>
+		<telefoon>99-345 67 891</telefoon>
+	</lid>
+	<lid lidNummer="82004">
+		<naam>
+			<voornaam>Linda</voornaam>
+			<achternaam>Geelsip</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>2001</jaar>
+			<maand>maart</maand>
+			<dag>2</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Druivenlaan</straat>
+			<huisnummer>456</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>linda@example.org</email>
+		<telefoon>99-456 78 912</telefoon>
+	</lid>
+	<lid lidNummer="82005">
+		<naam>
+			<voornaam>Irma</voornaam>
+			<achternaam>Balk</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1998</jaar>
+			<maand>juni</maand>
+			<dag>3</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Tulpenstraat</straat>
+			<huisnummer>90</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>irma@example.org</email>
+		<telefoon>99-567 89 123</telefoon>
+	</lid>
+	<lid lidNummer="82006">
+		<naam>
+			<voornaam>Emma</voornaam>
+			<achternaam>Schouten</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1988</jaar>
+			<maand>april</maand>
+			<dag>7</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Aardbeiplein</straat>
+			<huisnummer>44</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>emma@example.org</email>
+		<telefoon>99-678 91 234</telefoon>
+	</lid>
+	<lid lidNummer="82007">
+		<naam>
+			<voornaam>Sigrid</voornaam>
+			<achternaam>Hunk</achternaam>
+		</naam>
+		<geboorteDatum>
+			<jaar>1991</jaar>
+			<maand>november</maand>
+			<dag>23</dag>
+		</geboorteDatum>
+		<adres>
+			<straat>Frambroosstraat</straat>
+			<huisnummer>59</huisnummer>
+			<plaats>Nieuwstad</plaats>		
+		</adres>
+		<email>sigrid@example.org</email>
+		<telefoon>99-789 12 345</telefoon>
+	</lid>
+</ledenlijst>
