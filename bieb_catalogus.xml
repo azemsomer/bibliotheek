@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This an example XML document for a fictional library -->
+<catalogus>
+	<item ID="0001">
+		<categorie>boek</categorie>
+		<titel>De Gouden Kooi</titel>
+		<auteur>Maria Elizabeth de Keyser</auteur>
+		<jaar>2017</jaar>
+		<genre>Roman</genre>
+		<taal>Nederlands</taal>
+	</item>
+	<item ID="0002">
+		<categorie>boek</categorie>
+		<titel>Het Glazen Schip</titel>
+		<auteur>Maria Elizabeth de Keyser</auteur>
+		<jaar>2014</jaar>
+		<genre>Roman</genre>
+		<taal>Nederlands</taal>
+	</item>
+	<item ID="0003">
+		<categorie>boek</categorie>
+		<titel>Leren Programeren</titel>
+		<auteur>Julian de Meer</auteur>
+		<jaar>2015</jaar>
+		<genre>Informatief</genre>
+		<taal>Nederlands</taal>
+	</item>
+	<item ID="0004">
+		<categorie>DVD</categorie>
+		<titel>The Humble Servant</titel>
+		<regiseur>Manon Spencer</regiseur>
+		<jaar>2017</jaar>
+		<genre>drama</genre>
+		<taal>Engels</taal>
+	</item>
+	<item ID="0005">
+		<categorie>boek</categorie>
+		<titel>The Dark Mansion</titel>
+		<auteur>Cheryl Adams</auteur>
+		<jaar>2014</jaar>
+		<genre>Roman</genre>
+		<taal>Engels</taal>
+	</item>
+	<item ID="0006">
+		<categorie>boek</categorie>
+		<titel>Dromen van fluweel</titel>
+		<auteur>Maaike Lakeman</auteur>
+		<jaar>2012</jaar>
+		<genre>Roman</genre>
+		<taal>Nederlands</taal>
+	</item>
+</catalogus>
