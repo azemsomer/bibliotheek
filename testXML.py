@@ -6,7 +6,7 @@ from xml.dom.minidom import parse
 import xml.dom.minidom
 
 #open xml document using minidom parser
-domTree = xml.dom.minidom.parse("/media/azem/B839-34C6/Programmeren/library/ledenlijst.xml")
+domTree = xml.dom.minidom.parse("azemsomer/bibliotheek/ledenlijst.xml")
 lijst = domTree.documentElement
 
 #put all members into a list
