@@ -1,5 +1,5 @@
 # bibliotheek
-This repository contains one of my more elaborate projects: the management system of a fictious library (Dutch: bibliotheek).
+This repository contains one of my more elaborate projects: the management system of a fictious library (Dutch: bibliotheek). See library.png for a simplied architecture of this project.
 
 The back end of this library management system is a SQL database, while the functional logic to search and update this database is provided by python scripts.
 
