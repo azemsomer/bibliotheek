@@ -1,0 +1,36 @@
+Library program using elasticsearch
+
+Though this project is based on a (My)SQL database backend, there is no reason why
+we cannot use elasticsearch instead.
+
+In that case we need (at least) the following indices:
+
+    /library/objects/ #contains the index files with object data
+    /library/members/ #contains the index files with member data
+
+Sample file1:
+
+{
+    "Title": "The Green Apple"
+    "Author": "Alice Brown"
+    "Language": "English"
+    "Genre": ["fiction", "mystery"]
+}
+
+
+Sample file2:
+
+{
+    "first name": "Bob"
+    "last name": "Johnson"
+    "address": {
+                    "street": "princeton avenue"
+                    "house number": 234
+                }
+}
+
+The library's catalog search utitly will use the following:
+
+    GET /library/objects/_search?q=item:value #replace item and value with relevant values
+
+A library employee can update the index files using PUT. 
